@@ -11,12 +11,17 @@
   },
   "dependencies": {
     "@nuxt/eslint": "^1.12.1",
+    "@nuxt/icon": "^2.1.1",
+    "@tailwindcss/vite": "^4.1.18",
     "nuxt": "^4.2.2",
+    "tailwindcss": "^4.1.18",
     "vue": "^3.5.26",
     "vue-router": "^4.6.4"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^6.7.3",
+    "@iconify-json/tabler": "^1.2.25",
+    "daisyui": "^5.5.14",
     "eslint": "^9.39.2",
     "eslint-plugin-format": "^1.1.0"
   }
